@@ -5,6 +5,7 @@ import 'package:furniture_app/constants.dart';
 import 'components/body.dart';
 
 class ProductsScreen extends StatelessWidget {
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -27,4 +28,5 @@ class ProductsScreen extends StatelessWidget {
       ],
     );
   }
+
 }
